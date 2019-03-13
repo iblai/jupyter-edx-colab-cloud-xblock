@@ -1,7 +1,7 @@
-# Colab XBlock
+# Jupyter Google Colab XBlock
 
 ## Overview
-Provides a convenient way to launch Google Colab notebooks with within EdX.
+Provides a convenient way to launch Google Colab notebooks with within Open edX.
 
 Demo available at https://www.youtube.com/watch?v=ddZDNW_g-v4
 
