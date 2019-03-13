@@ -3,6 +3,8 @@
 ## Overview
 Provides a convenient way to launch Google Colab notebooks with within EdX.
 
+Demo available at https://www.youtube.com/watch?v=ddZDNW_g-v4
+
 ## Installation
 ### XBlock
 * login as the root user: `sudo -i`
